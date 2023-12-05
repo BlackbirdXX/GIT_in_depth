@@ -29,7 +29,6 @@ int main(int argc, char const *argv[])
     task3();
     sleep(1);
     task4();
-	//commit
     return 0;
 }
 task1()
